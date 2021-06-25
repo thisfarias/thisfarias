@@ -37,6 +37,15 @@
   <img src="http://www.engenbot.com/static/image/logo_vba.png" alt="VBA | Visual Basic for Application" width="26" style="max-width:100%;" align="left">
   <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="Java" width="26" style="max-width:100%;" align="left">
  </p>
+ <br>
+ <br>
+ <hr></hr>
+ <h3>Now Playing</h3>
+ <h2>
+  <a href="https://open.spotify.com/user/22fgpjfx5pafjop5lxs4r53ia" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/8856182e969dc3e0bd4a0a2cfc68932d632281f6c9ebf95e45262fb2f1ae7c63/68747470733a2f2f6769746875622d726561646d652d72656d616b652e76657263656c2e6170702f6170692f73706f74696679">
+  </a>
+ </h2>
 
 
 
