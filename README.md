@@ -27,7 +27,7 @@
   <p><img src="https://image.flaticon.com/icons/png/512/491/491588.png" width="20" style="max-width:100%;" align="center"> I love to play soccer</p>
   <p><img src="https://image.flaticon.com/icons/png/512/1913/1913235.png" width="20" style="max-width:100%;" align="center"> I play the guitar</p>
 </p>
-<h3>My languanges and tools</h3
+<h3>My languages and tools</h3
  <p>
    <img src="http://www.engenbot.com/static/image/logo_python.png" alt="Python" width="26" style="max-width:100%;" align="left">
   <img src="https://image.flaticon.com/icons/png/512/174/174854.png" alt="HTML" width="26" style="max-width:100%;" align="left">
