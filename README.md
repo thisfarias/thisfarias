@@ -19,7 +19,7 @@
 <br>
 <br>
 <p>Welcome to my page.</p>
-<h4>My name's <a href="https://www.instagram.com/farias_mths/">Matheus Farias</a>, Fullstack Developer and SAP PI/PO Consultant. I'm 21 years old and I'm passionate about codes, stuck with a simple, effective and quality code.</h4>
+<h4>My name's <a href="https://www.instagram.com/farias_mths/">Matheus Farias</a>, Fullstack Developer and SAP PI/PO/CPI & ABAP Consultant. I'm 21 years old and I'm passionate about codes, stuck with a simple, effective and quality code.</h4>
 <h3>About Me</h3>
 <p>
   <p><img src="https://image.flaticon.com/icons/png/512/743/743526.png" width="20" style="max-width:100%;" align="center"> I´m from <a href="https://goo.gl/maps/2mv2euNyUJsajTUV7">Rio de Janeiro</a></p>
@@ -29,13 +29,15 @@
 </p>
 <h3>My languages and tools</h3
  <p>
-   <img src="http://www.engenbot.com/static/image/logo_python.png" alt="Python" width="26" style="max-width:100%;" align="left">
-  <img src="https://image.flaticon.com/icons/png/512/174/174854.png" alt="HTML" width="26" style="max-width:100%;" align="left">
-  <img src="https://image.flaticon.com/icons/png/512/732/732190.png" alt="CSS" width="26" style="max-width:100%;" align="left">
-  <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="Git" width="26" style="max-width:100%;" align="left">
-  <img src="https://image.flaticon.com/icons/png/512/919/919828.png" alt="JavaScript" width="26" style="max-width:100%;" align="left">
-  <img src="http://www.engenbot.com/static/image/logo_vba.png" alt="VBA | Visual Basic for Application" width="26" style="max-width:100%;" align="left">
-  <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="Java" width="26" style="max-width:100%;" align="left">
+   <img src="https://github.com/thisfarias/images/blob/main/python.png" alt="Python" width="60" style="max-width:100%;" align="left">
+  <img src="https://github.com/thisfarias/images/blob/main/html.png" alt="HTML" width="60" style="max-width:100%;" align="left">
+  <img src="https://github.com/thisfarias/images/blob/main/css.png" alt="CSS" width="60" style="max-width:100%;" align="left">
+  <img src="https://github.com/thisfarias/images/blob/main/git.png" alt="Git" width="60" style="max-width:100%;" align="left">
+  <img src="https://github.com/thisfarias/images/blob/main/js.png" alt="JavaScript" width="60" style="max-width:100%;" align="left">
+  <img src="https://github.com/thisfarias/images/blob/main/vba.png" alt="VBA | Visual Basic for Application" width="60" style="max-width:100%;" align="left">
+  <img src="https://github.com/thisfarias/images/blob/main/java.png" alt="Java" width="60" style="max-width:100%;" align="left">
+  <img src="https://github.com/thisfarias/images/blob/main/ABAP.png" alt="SAP ABAP" width="60" style="max-width:100%;" align="left">
+  <img src="https://github.com/thisfarias/images/blob/main/sap-pi.png" alt="SAP PI" width="60" style="max-width:100%;" align="left">
  </p>
  <br>
  <br>
